@@ -1,5 +1,7 @@
 {
-    "User": {
-      "title": { "string": {} }
+    "Consent": {
+      "recordType": "EMAIL_COM",
+      "channelId": "exampleValue@mail.com",
+      "productId": ""
     }
   }
