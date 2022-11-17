@@ -6,10 +6,12 @@
       "productId": {"string" : ["a003J000002E7iyQAC"]},
       "name": {"string" : ["mockAPITest"]},
       "subChannel": {"string" : ["other"]},
-      "timestamp":{
-        "min": "2010-01-01T00:00:00Z",
-        "max": "2020-12-31T23:59:59Z"
+      "timestamp": {
+        "dateTime" : {
+          "min": "2010-01-01T00:00:00Z",
+          "max": "2020-12-31T23:59:59Z"
+        }
       },
-      "value": {"string" : ["out"]}
+      "value": {"string" : ["other"]}
     }
   }
