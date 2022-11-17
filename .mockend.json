@@ -1,5 +1,5 @@
 {
-    "Consent": [
+    "Consent": 
       {
       "recordType": "EMAIL_COM",
       "channelId": "exampleValue@mail.com",
@@ -8,25 +8,5 @@
       "subChannel": "other",
       "timestamp": "2022-04-12T06:41:23.000Z",
       "value": "out"
-    },
-    {
-      "recordType": "EMAIL_COM",
-      "channelId": "exampleValue@mail.com",
-      "productId": "a003J000002E7iyQAC",
-      "name": "mockAPITest",
-      "subChannel": "other",
-      "timestamp": "2022-04-12T06:41:23.000Z",
-      "value": "out"
-    },
-    {
-      "recordType": "EMAIL_COM",
-      "channelId": "exampleValue@mail.com",
-      "productId": "a003J000002E7iyQAC",
-      "name": "mockAPITest",
-      "subChannel": "other",
-      "timestamp": "2022-04-12T06:41:23.000Z",
-      "value": "out"
     }
-  ]
-
   }
