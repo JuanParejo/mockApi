@@ -1,5 +1,8 @@
 {
-  "customerId": "6250002",
+  "Header":{
+    "customerId": "6250002",
+    "repeat" : 1
+  },
     "Consent": 
       {
       "recordType": {"string" : ["012d0000000XG7SAAW"]},
@@ -13,6 +16,7 @@
           "max": "2020-12-31T23:59:59Z"
         }
       },
-      "value": {"string" : ["other"]}
+      "value": {"string" : ["other"]},
+      "repeat" : 20
     }
   }
