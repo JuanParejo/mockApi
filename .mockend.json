@@ -1,7 +1,7 @@
 {
     "Consent": 
       {
-      "recordType": {"string" : ["EMAIL_COM"]},
+      "recordType": {"string" : ["012d0000000XG7SAAW"]},
       "channelId": {"string" : ["exampleValue@mail.com"]},
       "productId": {"string" : ["a003J000002E7iyQAC"]},
       "name": {"string" : ["mockAPITest"]},
